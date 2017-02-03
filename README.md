@@ -16,7 +16,9 @@ You can either run the notebook by typing `jupyter notebook` into terminal when 
 
 ##Weekly Challenge
 
-The challenge for this video is to build a neural network to predict the magnitude of an Earthquake given the date, time, Latitude, and Longitude as features. [This](https://www.kaggle.com/usgs/earthquake-database) is the dataset. You can use any library you like, bonus points are given if you do this using only numpy. Optimize at least 1 hyperparameter using Random Search. See [this](http://scikit-learn.org/stable/auto_examples/model_selection/randomized_search.html) example for more information.
+The challenge for this video is to build a neural network to predict the magnitude of an Earthquake given the date, time, Latitude, and Longitude as features. [This](https://www.kaggle.com/usgs/earthquake-database) is the dataset. Optimize at least 1 hyperparameter using Random Search. See [this](http://scikit learn.org/stable/auto_examples/model_selection/randomized_search.html) example for more information.
+
+You can use any library you like, *bonus points* are given if you do this using only numpy.
 
 #Due Date: Thursday, February 9th at 12 PM PST
 
