@@ -10,6 +10,8 @@ This is the code for [this](https://youtu.be/N4gDikiec8E) video on Youtube by Si
 
 None! 
 
+Install Jupyter notebook from [here](http://jupyter.readthedocs.io/en/latest/install.html)
+
 ##Usage
 
 You can either run the notebook by typing `jupyter notebook` into terminal when in the directory or run the demo.py script by running `python demo.py` in terminal.
