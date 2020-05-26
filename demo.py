@@ -33,7 +33,7 @@ for j in xrange(60000):
     k2_error = y - k2
 
     if (j% 10000) == 0:
-        print "Error:" + str(np.mean(np.abs(k2_error)))
+        print("Error:" + str(np.mean(np.abs(k2_error)))
         
     # in what direction is the target value?
     # were we really sure? if so, don't change too much.
